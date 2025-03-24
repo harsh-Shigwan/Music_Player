@@ -1,4 +1,3 @@
-```markdown
 # Music Player Saitify 🎵
 
 Welcome to **Music Player Saitify**! This project is a sleek and modern music player built using **React** and **Tailwind CSS**. It features a responsive design, dynamic components, and an intuitive user experience.
@@ -38,9 +37,6 @@ Music_Player/
 ├── postcss.config.js       # PostCSS configuration
 ├── tailwind.config.js      # Tailwind CSS configuration
 └── vite.config.js          # Vite configuration
-```
-
----
 
 ## 🛠 Installation & Setup
 Follow these steps to set up and run the project locally:
