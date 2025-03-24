@@ -38,6 +38,7 @@ Music_Player/
 ├── tailwind.config.js      # Tailwind CSS configuration
 └── vite.config.js          # Vite configuration
 
+```
 ## 🛠 Installation & Setup
 Follow these steps to set up and run the project locally:
 
